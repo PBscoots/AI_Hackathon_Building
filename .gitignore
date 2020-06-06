@@ -6,3 +6,4 @@ TrainingdataElevator_lastMonth.csv
 .ipynb_checkpoints/AI_Hackathon-checkpoint.ipynb
 ./EvaluationdataElevator/*
 *-checkpoint.ipynb
+*logs/*
