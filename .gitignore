@@ -7,3 +7,4 @@ TrainingdataElevator_lastMonth.csv
 ./EvaluationdataElevator/*
 *-checkpoint.ipynb
 *logs/*
+EvaluationdataElevator/*
